@@ -433,7 +433,7 @@ if(window.snake) {
 
               let egg = new Image();
               egg.src = 'https://i.postimg.cc/DyXvs5Tm/Ski-trail-rating-symbol-black-circle.png';
-              egg.width = egg.height = 47;
+              egg.width = egg.height = 100;
               egg.className = 'DqMRee SsAred';
 
               let lime = new Image();
