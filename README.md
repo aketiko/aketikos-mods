@@ -432,7 +432,7 @@ if(window.snake) {
               dog.className = 'DqMRee SsAred';
 
               let egg = new Image();
-              egg.src = 'https://i.postimg.cc/4yn3rTq1/download-3.png';
+              egg.src = 'https://i.postimg.cc/DyXvs5Tm/Ski-trail-rating-symbol-black-circle.png';
               egg.width = egg.height = 47;
               egg.className = 'DqMRee SsAred';
 
@@ -501,7 +501,7 @@ if(window.snake) {
               // eval(`var bu_ = new Image(); bu_.src = 'https://i.postimg.cc/B6ycxmBb/porga.png';`);
               // eval(`var ca_ = new Image(); ca_.src = 'https://i.postimg.cc/RCDVL7Bf/index.png';`);
               // eval(`var do_ = new Image(); do_.src = 'https://i.postimg.cc/rsrbW0x6/dog.png';`);
-              // eval(`var eg_ = new Image(); eg_.src = 'https://i.postimg.cc/4yn3rTq1/download-3.png';`);
+              // eval(`var eg_ = new Image(); eg_.src = 'https://i.postimg.cc/DyXvs5Tm/Ski-trail-rating-symbol-black-circle.png';`);
               // eval(`var li_ = new Image(); li_.src = 'https://i.postimg.cc/k5kWcyFB/lime.png';`);
               // eval(`var pe_ = new Image(); pe_.src = 'https://i.postimg.cc/BQqHMbDc/redpepper.png';`);
               // eval(
